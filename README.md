@@ -3,7 +3,7 @@
 Personal Portfolio Site
 ------------------------
 
-### My Portfolio site Live  :[rajanpoudel.com.np](http://rajanpoudel.com.np/?i=1 "iamrjn")[]
+### My Portfolio site Live  :[rajanpoudel.com.np](http://rajanpoudel.com.np/?i=1 "iamrjn")
 
 # **01\. Laptop View**
 
